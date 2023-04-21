@@ -11,7 +11,7 @@ miniconda/
 modules/
 
 # Heavy pickle files
-*.pkl
+#*.pkl
 
 # Remove output files
 output/*.json
